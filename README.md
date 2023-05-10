@@ -1,6 +1,5 @@
 # cds (upgraded Change Directory) 
-Program for storing and adding paths for navigating in Command Prompt. Name comes from command "cd" in Windows.  
-Program was tested on Windows 10 and probably will work only on Windows OS.
+Program for storing and adding paths for navigating in Command Prompt. Name comes from command "cd" in Windows. Program was tested on Windows 10 and probably will work only on Windows OS.  
 ### Syntax for usage:
 ```
       cds --add or -a C:\User\user\some_dir
