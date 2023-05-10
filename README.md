@@ -23,7 +23,7 @@ Program for storing and adding paths for navigating in Command Prompt. Name come
   cds -s
   1 C:\Users\user\java programs
 ```
-💻 Lets execute some Windows commands.
+💻 Lets execute some Windows commands. This command shows the files in the directory "C:\Users\user\java programs".
 ```
   cds 1 dir
   some_date <DIR> .
