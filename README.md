@@ -1,5 +1,5 @@
 # cds
-Program for storing and adding paths for navigating in Command Line. Name comes from command "cd" in Windows. <br /> 
+<p1> Program for storing and adding paths for navigating in Command Line. Name comes from command "cd" in Windows. <br /> <p1/>
 Syntax for usage: <br />
   cds --add or -a C:\User\user\some_dir <br /> 
       appends path to a file and returns index <br /> 
