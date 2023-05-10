@@ -2,7 +2,7 @@
 <pre>
 Program for storing and adding paths for navigating in Command Line. Name comes from command "cd" in Windows. <br />
 Syntax for usage: <br />
-  cds --add or -a C:\User\user\some_dir <br /> 
+&nbsp  cds --add or -a C:\User\user\some_dir <br /> 
       appends path to a file and returns index <br /> 
   cds index command1 command2 ... <br />
       executes cd dir_with_index && commmand1 && command2 ... <br />
