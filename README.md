@@ -13,7 +13,7 @@ Program was tested on Windows 10 and probably will work only on Windows OS.
             # deletes specified index
 ```
 ### Examples:  
-⛳ Add new path to a program. All the paths are stored in **cdsLog.txt** file in the directory where program is located. In the following examples, it is assumed that cds.exe is in PATH in environmental variables.   
+⛳ Add new path to a program. All the paths are stored in **cdsLog.txt** file in the directory where program is located. In the following examples, it is assumed that cds.exe is in PATH in environment variables.   
 
 ```
   cds -a "C:\Users\user\java programs"  
