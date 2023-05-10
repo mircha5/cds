@@ -1,5 +1,4 @@
 # cds
-<pre>
 Program for storing and adding paths for navigating in Command Line. Name comes from command "cd" in Windows. <br />
 Syntax for usage: <br />
 &nbsp  cds --add or -a C:\User\user\some_dir <br /> 
@@ -38,7 +37,6 @@ Examples: <br />
     cds -d 1 <br />
   returns: <br />
     *nothing* <br />
-</pre>
     
   
       
