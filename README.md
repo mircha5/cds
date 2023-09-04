@@ -39,5 +39,3 @@ Program for storing and adding paths for navigating in Command Prompt. Name come
 ```
   cds -d 1 
 ```
-### Contact me
-If you have suggestions, please contact me by my email(mircha849@gmail.com).
